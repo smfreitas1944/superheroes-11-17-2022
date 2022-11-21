@@ -9,3 +9,7 @@ Passcode: R%hx4#YC
 11/18:
 https://revature.zoom.us/rec/share/8KSrUKZgtKqd0F2G_-MFuxI6T4nE3fMoC9e-y5DIsQHTgCfT-ECtioKh4ZH6kP4T.EKb0YwOBjgnBDyGE
 Passcode: T$=8WDn@
+
+11/21:
+https://revature.zoom.us/rec/share/JekphPIQyffBUGfYIKYue749haUwzP0OKvXNJr-PKPhH_dVBOtXP2lrPlefidJQ.maOkCHljxmKg3uwV
+Passcode: Y.6=W6i*
