@@ -27,7 +27,6 @@ public class ConnectionFactory {
             String password = bundle.getString("password");
             try {
                 connection = DriverManager.getConnection(url, user, password);
-
             } catch(SQLException exception) {
                 exception.printStackTrace();
             }
