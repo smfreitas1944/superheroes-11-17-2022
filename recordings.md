@@ -13,3 +13,7 @@ Passcode: T$=8WDn@
 11/21:
 https://revature.zoom.us/rec/share/JekphPIQyffBUGfYIKYue749haUwzP0OKvXNJr-PKPhH_dVBOtXP2lrPlefidJQ.maOkCHljxmKg3uwV
 Passcode: Y.6=W6i*
+
+11/22:
+https://revature.zoom.us/rec/share/JCUBMYcnwbjjWPgPZypz5Dr2Gx6KEhXiWHjNF4_pftxQR6lGA00rc6EI81joCNQM.fP-aiOqm8NeKELYE
+Passcode: 16*7wPtv
