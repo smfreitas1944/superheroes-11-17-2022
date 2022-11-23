@@ -10,4 +10,14 @@ public class SuperHeroDaoDummyImpl implements SuperHeroDao {
         superhero.setId(45);
         return superhero;
     }
+    
+    @Override
+    public boolean insertSuperhero(Superhero superhero, int id) {
+    	
+    	String superero_name, String super_power, int strength, String weakness, char franchise, String world)
+    }
+    		
+    		
+    		
+    	
 }
