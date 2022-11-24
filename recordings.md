@@ -16,4 +16,7 @@ Passcode: Y.6=W6i*
 
 11/22:
 https://revature.zoom.us/rec/share/JCUBMYcnwbjjWPgPZypz5Dr2Gx6KEhXiWHjNF4_pftxQR6lGA00rc6EI81joCNQM.fP-aiOqm8NeKELYE
-Passcode: 16*7wPtv
+
+11/23: 
+https://revature.zoom.us/rec/share/2M1d1xBzYgdh5vxkh7vugIRHVr4XiHAkRSjr2EhYeqK5VNsNwUGD5FOuxN8eWYug.m5uOWeH14_mlZboy 
+Passcode: tem7s+D^
