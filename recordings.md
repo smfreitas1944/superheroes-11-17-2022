@@ -21,3 +21,7 @@ Passcode: 16*7wPtv
 11/23: 
 https://revature.zoom.us/rec/share/2M1d1xBzYgdh5vxkh7vugIRHVr4XiHAkRSjr2EhYeqK5VNsNwUGD5FOuxN8eWYug.m5uOWeH14_mlZboy 
 Passcode: tem7s+D^
+
+11/28:
+https://revature.zoom.us/rec/share/3MJsdSQLrSOqIKyUU3JTJjIOWROWf0JFavr1gR__3dvQ3GT1mY-RvVXEVbFGLkc9.qHBgxR-s3ip42VTw
+Passcode: QE7x$7Af
