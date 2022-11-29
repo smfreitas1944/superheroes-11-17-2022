@@ -25,3 +25,7 @@ Passcode: tem7s+D^
 11/28:
 https://revature.zoom.us/rec/share/3MJsdSQLrSOqIKyUU3JTJjIOWROWf0JFavr1gR__3dvQ3GT1mY-RvVXEVbFGLkc9.qHBgxR-s3ip42VTw
 Passcode: QE7x$7Af
+
+Nov 29:
+https://revature.zoom.us/rec/share/oaEgcpXs0yb1fLenUTFDUfgfb1XO5j7_hH_BIH8iCL5fcK1nFMS31Sqe4nH6bei4.DW3mfVgcylCqrZZz
+Passcode: Wd=UedC5
