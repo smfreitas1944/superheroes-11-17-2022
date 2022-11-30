@@ -29,3 +29,7 @@ Passcode: QE7x$7Af
 Nov 29:
 https://revature.zoom.us/rec/share/oaEgcpXs0yb1fLenUTFDUfgfb1XO5j7_hH_BIH8iCL5fcK1nFMS31Sqe4nH6bei4.DW3mfVgcylCqrZZz
 Passcode: Wd=UedC5
+
+11/30:
+https://revature.zoom.us/rec/share/uSUR-XT4VSUzYPzadod-dY0LqglSTjP6iaESaubzhrAYnroy2T_75rwvofrarJJm.DDZ4MRAn2dZBUbeH
+Passcode: cC!1=vFn
